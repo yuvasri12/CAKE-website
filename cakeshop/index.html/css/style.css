@@ -1,0 +1,38 @@
+body{
+    background: url(https://images.pexels.com/photos/4109996/pexels-photo-4109996.jpeg?auto=compress&cs=tinysrgb&w=400);
+    background-size: cover;
+}
+div{
+    background-color: rgb(62, 59, 59);
+    width: 60%;
+    margin: 200px auto;
+    text-align: center;
+    color: white;
+    border-radius: 20px;
+    font-family: "roboto",serif;
+    opacity:0.6;
+}
+button{
+   background-color: rgb(94, 98, 104);
+   padding: 12px; 
+   color: #12f19f;
+   font-size: 25px ;
+
+}
+i{
+ font-size: 50px;
+ margin-top: 10px;
+
+}
+.roboto-regular-italic {
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  h1{
+    font-size: 51px;
+
+  }
+  p{
+    font-size: 35px;
+  }
